@@ -13,3 +13,6 @@
         <li><strong>CSS:</strong> Styling and layout of the elements.</li>
         <li><strong>JavaScript:</strong> Interactivity and functionality of the to-do list.</li>
     </ul>
+
+
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7220281131949056000" target="_blank">Visit Linked to view the Screen Shots</a>
